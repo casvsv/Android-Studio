@@ -49,7 +49,7 @@ Android-Studio/
 ├── build.gradle                            # Configuración raíz del proyecto
 ├── settings.gradle                         # Configuración de los módulos del proyecto
 └── README.md                               # Este archivo
-
+```
 ## 📄 Licencia
 
 MIT License
