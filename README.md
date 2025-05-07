@@ -54,8 +54,7 @@ Android-Studio/
 
 MIT License
 
-Copyright (c) 2025 [Tu Nombre o Nombre del Autor]
-
+Copyright (c) 2025 César Salazar
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
